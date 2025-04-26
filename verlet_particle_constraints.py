@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 27 19:43:01 2017
-
-@author: kaswan
-"""
-
 import pygame, sys, math
 
 pygame.init()
